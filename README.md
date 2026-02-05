@@ -13,4 +13,4 @@ Most of these tasks like flattening nested lists or turning raw tuples into dict
 
 
 ## Why this matters
-List comprehensions aren't just for looking cool—they're generally faster and keep the codebase much easier to read once you get the hang of the syntax.
+List comprehensions aren't just for looking cool they're generally faster and keep the codebase much easier to read once you get the hang of the syntax.
