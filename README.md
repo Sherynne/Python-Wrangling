@@ -2,7 +2,7 @@
 
 This is a small collection of logic puzzles I solved using Python list comprehensions. 
 
-Most of these tasks like flattening nested lists or turning raw tuples into dictionaries—are things you'd actually do when cleaning data for an API or a database. Instead of writing long `for` loops, I wanted to see how clean and "Pythonic" I could make the logic.
+Most of these tasks like flattening nested lists or turning raw tuples into dictionaries are things you'd actually do when cleaning data for an API or a database. Instead of writing long `for` loops, I wanted to see how clean and "Pythonic" I could make the logic.
 
 ## What's in here?
 * **List Flattening:** Turning 3D data into 1D.
